@@ -1,0 +1,8 @@
+C:\Users\DELL\Downloads\CinemaTickets\TicketShop\TicketShop.Web\obj\Debug\netcoreapp3.1\Ecinema.Web.csprojAssemblyReference.cache
+C:\Users\DELL\Downloads\CinemaTickets\TicketShop\TicketShop.Web\obj\Debug\netcoreapp3.1\Ecinema.Web.AssemblyInfoInputs.cache
+C:\Users\DELL\Downloads\CinemaTickets\TicketShop\TicketShop.Web\obj\Debug\netcoreapp3.1\Ecinema.Web.AssemblyInfo.cs
+C:\Users\DELL\Downloads\CinemaTickets\TicketShop\TicketShop.Web\obj\Debug\netcoreapp3.1\Ecinema.Web.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\CinemaTickets\TicketShop\TicketShop.Web\obj\Debug\netcoreapp3.1\Ecinema.Web.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\DELL\Downloads\CinemaTickets\TicketShop\TicketShop.Web\obj\Debug\netcoreapp3.1\Ecinema.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DELL\Downloads\CinemaTickets\TicketShop\TicketShop.Web\obj\Debug\netcoreapp3.1\Ecinema.Web.RazorAssemblyInfo.cache
+C:\Users\DELL\Downloads\CinemaTickets\TicketShop\TicketShop.Web\obj\Debug\netcoreapp3.1\Ecinema.Web.RazorAssemblyInfo.cs
